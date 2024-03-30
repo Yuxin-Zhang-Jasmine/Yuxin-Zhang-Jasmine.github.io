@@ -10,13 +10,13 @@ locale                   : "en-US"
 title                    : "Yuxin Zhang"
 title_separator          : "-"
 name                     : &name "Yuxin Zhang"
-description              : &description "computational ethnographer<br/>ethnographer of computation"
+description              : &description "Ph.D. student at LS2N, France"
 url                      : https://yuxin-zhang-jasmine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yuxin-Zhang-Jasmine/Yuxin-Zhang-Jasmine.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
-seo_description          : "Site for Richard Stuart Geiger, Professor of Communication and Data Science at UC San Diego"
+seo_description          : #"Site for Richard Stuart Geiger, Professor of Communication and Data Science at UC San Diego"
 words_per_minute         : 160
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "staeiou"
+  username               : #&twitter "staeiou"
 facebook:
   username               : 
   app_id                 :
@@ -76,10 +76,10 @@ social:
 author:
   name             : "Yuxin Zhang"
   avatar           : "photo.png"
-  bio              : "Ethnographer of computation and computational ethnographer <br> <br> Assistant Professor at UC San Diego, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a>"
-  location         : "San Diego, CA"
+  bio              : 
+  location         : "Nantes, France"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=gSPbJ2AAAAAJ&hl=en"
   email            :
   uri              : 
   bitbucket        :
@@ -94,7 +94,7 @@ author:
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7215-0532"
+  orcid            : "https://orcid.org/0009-0000-8723-4667"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -248,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: #America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
