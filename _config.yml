@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "R. Stuart Geiger"
+title                    : "Yuxin Zhang"
 title_separator          : "-"
-name                     : &name "R. Stuart Geiger"
+name                     : &name "Yuxin Zhang"
 description              : &description "computational ethnographer<br/>ethnographer of computation"
-url                      : https://stuartgeiger.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuxin-zhang-jasmine.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "staeiou/staeiou.github.io"
+repository               : "Yuxin-Zhang-Jasmine/Yuxin-Zhang-Jasmine.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 seo_description          : "Site for Richard Stuart Geiger, Professor of Communication and Data Science at UC San Diego"
@@ -69,11 +69,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-# Analytics
-#analytics:
-#  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-#  google:
-#    tracking_id          : "UA-79273-2"
 
 
 
@@ -81,8 +76,6 @@ social:
 author:
   name             : "R. Stuart Geiger"
   avatar           : "oban3.jpg"
-#  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego: <ul><li><a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a></li> <li><a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a></li></ul>"
-#  bio              : "Ethnographer of computation and computational ethnographer. <br> <br> Assistant Professor at UC San Diego, in <ul> <li><a style="color: black;" href="http://communication.ucsd.edu">Department of Communication</a></li> <li><a style="color: black;" href="http://hdsi.ucsd.edu">Halıcıoğlu Data Science Institute</a></li> <li><a style="color: black;" href="http://ipe.ucsd.edu">Institute for Practical Ethics</a></li> </ul>"
   bio              : "Ethnographer of computation and computational ethnographer <br> <br> Assistant Professor at UC San Diego, <a style='color: black;' href='http://communication.ucsd.edu'>Department of Communication</a> & <a style='color: black;' href='http://hdsi.ucsd.edu'>Halıcıoğlu Data Science Institute</a>"
   location         : "San Diego, CA"
   employer         : 
@@ -112,7 +105,6 @@ author:
   weibo            :
   xing             :
   youtube          :
-  # wikipedia        : "staeiou"
 
 
 # Reading Files
