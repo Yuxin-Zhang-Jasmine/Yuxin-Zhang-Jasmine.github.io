@@ -84,7 +84,7 @@ author_profile: true
 
 > développer des réseaux de coopération scientifiques et professionnels à l'échelle internationale
 > 
->> J'ai rencontré de nombreux collègues intéressants de différents pays lors de conférences internationales, et chacun a ajouté ses coordonnées pour offrir des possibilités de coopération future.
+>> J'ai rencontré de nombreux collègues intéressants de différents pays lors de conférences internationales.
 
 
 ## Formation et diffusion de la culture scientifique et technique
@@ -97,7 +97,7 @@ author_profile: true
 
 > enseigner et former des publics diversifiés à des concepts, outils et méthodes avancés
 > 
->> Au cours de ma deuxième année de doctorat, j'ai eu plusieurs expériences d'assistant d'enseignement, certaines sur l'apprentissage automatique, d'autres sur l'imagerie par ultrasons. （2022-2023: 18 heures TP = 6.66 heures TP）
+>> Au cours de ma deuxième année de doctorat, j'ai eu plusieurs expériences d'assistant d'enseignement, certaines sur l'apprentissage automatique, d'autres sur l'imagerie par ultrasons. （2022-2023: 18 heures TP）
 
 
 ## Encadrement d'équipes dédiées à des activités de recherche et développement, d'études et prospective
@@ -108,5 +108,5 @@ author_profile: true
 
 > construire les démarches nécessaires pour impulser l'esprit d'entrepreneuriat au sein d'une équipe
 > 
->> J'ai utilisé l'IUS 2024 comme une bonne motivation pour le travail collaboratif.
+>> Nous avons utilisé les dates limites des colloques et les rendez-vous réguliers comme une bonne motivation pour le travail collaboratif.
 
