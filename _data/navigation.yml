@@ -11,3 +11,12 @@ main:
   
   - title: "Contact"
     url: /contact/
+
+  - title: "Formations"
+    url: /formations/
+
+  - title: "Compétences"
+    url: /competences/
+
+  - title: "Enseignement"
+    url: /enseignement/
