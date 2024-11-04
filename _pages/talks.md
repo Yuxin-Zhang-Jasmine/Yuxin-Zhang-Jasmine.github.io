@@ -31,5 +31,5 @@ author_profile: true
 - **Ultrasound Image Reconstruction with Deep Learning**  
   *[ED_SIS Seminar](https://ed-sis.doctorat-paysdelaloire.fr/pendant/ed-sis-seminar)*, Vannes, France  
   **Date**: June 2023  
-  **Format**: [Slides](https://yuxin-zhang-jasmine.github.io/files/EDSIS/ED_SIS), [Video](https://www.bilibili.com/video/BV1kZ421q7gF/?vd_source=e06c10e6def4a4103e4728dc5c00fbbb)
+  **Format**: [Slides](https://yuxin-zhang-jasmine.github.io/files/EDSIS/ED_SIS_seminar_2023), [Video](https://www.bilibili.com/video/BV1kZ421q7gF/?vd_source=e06c10e6def4a4103e4728dc5c00fbbb)
 
