@@ -4,7 +4,6 @@ title: "Publications"
 author_profile: true
 ---
 
-# Publications
    
 1. **Ultrasound Image Enhancement with the Variance of Diffusion Models**  
    *Author(s):* Y Zhang, C Huneau, J Idier, D Mateus  

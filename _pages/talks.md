@@ -4,7 +4,6 @@ title: "Talks"
 author_profile: true
 ---
 
-# Presentations
 
 - **Ultrasound Image Enhancement with the Variance of Diffusion Models**  
   *[IEEE IUS](https://2024.ieee-uffc-js.org/)*, Taipei  
