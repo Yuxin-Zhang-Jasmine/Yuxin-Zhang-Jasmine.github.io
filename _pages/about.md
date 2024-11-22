@@ -9,7 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I’m Yuxin Z., a Ph.D. candidate at SIMS, LS2N, Centrale Nantes, France. 
-
-## My work and research
-My work is on the biomedical ultrasound imaging using deep learning.
+Hi! I'm a Ph.D. candidate in Biomedical Ultrasound Imaging at LS2N, Centrale Nantes, with a focus on advancing digital healthcare through innovative research. My expertise lies in medical ultrasound image reconstruction, utilizing deep learning techniques like Denoising Diffusion Restoration Models and physics-informed neural networks.
